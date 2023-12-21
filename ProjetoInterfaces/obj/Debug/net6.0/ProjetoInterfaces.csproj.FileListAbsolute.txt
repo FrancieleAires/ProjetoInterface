@@ -1,0 +1,14 @@
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\bin\Debug\net6.0\ProjetoInterfaces.exe
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\bin\Debug\net6.0\ProjetoInterfaces.deps.json
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\bin\Debug\net6.0\ProjetoInterfaces.runtimeconfig.json
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\bin\Debug\net6.0\ProjetoInterfaces.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\bin\Debug\net6.0\ProjetoInterfaces.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.AssemblyInfoInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.AssemblyInfo.cs
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\refint\ProjetoInterfaces.dll
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.pdb
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ProjetoInterfaces.genruntimeconfig.cache
+C:\Users\faire\OneDrive\Área de Trabalho\ProjetoInterfaces\ProjetoInterfaces\obj\Debug\net6.0\ref\ProjetoInterfaces.dll
